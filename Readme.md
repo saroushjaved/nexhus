@@ -1,2 +1,1 @@
-# NEXHS  
-### Native EXecution for Heterogeneous Systems
+# NEXHS - Native EXecution for Heterogeneous Systems
